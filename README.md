@@ -18,8 +18,8 @@ under different multiphase sampling scenarios.
 
 ### NHANES Application
 
-The empirical analysis applies MP-BLIPW to NHANES data to investigate the
-association between HDL cholesterol and DEXA-measured body fat percentage.
+The empirical analysis applies MP-BLIPW to NHANES 2017–2018 data to investigate the association between HDL cholesterol and DEXA-measured total body fat percentage.
+BMI and hip circumference are used as auxiliary variables in the multiphase design.
 
 Hip circumference is used as auxiliary information in the multiphase design.
 
